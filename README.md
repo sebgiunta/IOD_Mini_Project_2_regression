@@ -1,6 +1,6 @@
 # IOD - Mini Project 2 - Regression
 
-This project is to practice lienar, lasso, ridge regression on a given set of housing data
+This project is to practice linear, lasso, ridge regression on a given set of housing data
 
 For the given data set (https://www.kaggle.com/code/digantadatta12/house-price-analysis/data) perform the following
 1. Linear regression
