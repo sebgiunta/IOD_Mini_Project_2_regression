@@ -1,4 +1,4 @@
-# IOD_mini_project_2_regression
+# IOD - Mini Project 2 - Regression
 
 This project is to practice lienar, lasso, ridge regression on a given set of housing data
 
